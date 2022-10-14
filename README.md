@@ -9,4 +9,4 @@ My name is Ethan. I am a computer science major currently in four year at Chico 
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Icons and Layout of Zotero’s PDF Reader](j01/)
