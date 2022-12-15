@@ -6,6 +6,7 @@ My name is Ethan. I am a computer science major currently in four year at Chico 
 
 ## UX Team Project
 
+[MyPantry](https://usabilityengineering.github.io/mypantry/)
 
 ## UX Journal
 
