@@ -10,3 +10,5 @@ My name is Ethan. I am a computer science major currently in four year at Chico 
 ## UX Journal
 
 [Icons and Layout of Zotero’s PDF Reader](j01/)
+
+[Learnability of Google Earth Web App with Google Maps Knowledge](j02/)
