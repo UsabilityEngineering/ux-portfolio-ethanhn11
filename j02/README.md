@@ -5,9 +5,9 @@ Published Date: 12/15/2022
 
 Google Earth is a software that allows users to explore the Earth through a virtual 3D rendering created from satellite images. Unlike the popular map software, Google Maps, Google Earth has less of a focus on helping users navigate from place to place, and more so on visualizing and exploring areas.
 
-Being decently familiar with Google Maps, I personally found Google Earth to be really easy to use despite relatively little time getting familiar with its layout. This prompted the question, what exactly did Google Earth do to give me such a good impression of its learnability?
+Being decently familiar with Google Maps, I personally found Google Earth to be really easy to use despite relatively little time getting familiar with its layout. This prompted the question, what exactly did Google Earth do to give me such a good impression of its **learnability**?
 
-Upon closer examination, I came to believe that the borrowing of icons from Google Maps was likely one of the largest factors. Though the icons are laid out differently, the consistency across both of the platforms made it so that any user familiar with one software can correctly assume the use case of the other software.
+Upon closer examination, I came to believe that the borrowing of icons from Google Maps was likely one of the largest factors. Though the icons are laid out differently, the **consistency** across both of the platforms made it so that any user familiar with one software can correctly assume the use case of the other software.
 
 Google Maps Website: 
 
@@ -44,7 +44,7 @@ Finally, I stumbled upon what I was looking for; mouse wheel click and hold:
 
 ![](../assets/j2/correct_s.gif)
 
-I think part of my struggles with this feature was that the middle mouse click is not an interaction I am used to and is not commonly used in other software that I am familiar with. Many of the other key combinations that I gave a try were already being used for other purposes, so remapping them may cause more confusion to existing users than would be desired; a potential thing Google Earth could do, however, is to make help and documentation for map navigations a little bit more explicit.
+I think part of my struggles with this feature was that the middle mouse click is not an interaction I am used to and is not commonly used in other software that I am familiar with. Many of the other key combinations that I gave a try were already being used for other purposes, so remapping them may cause more confusion to existing users than would be desired; a potential thing Google Earth could do, however, is to make **help and documentation** for map navigations a little bit more explicit.
 
 Google Earth does have an embedded help bar, but it did take a while to get to the desired page. Adding the keyboard shortcuts to the top of this help bar could help a lot for new users of Google Maps.
 
